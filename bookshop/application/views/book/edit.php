@@ -47,6 +47,7 @@
 
     <input id="submit" type="submit" name="submit" value="Edit Book" />
 
+</div>
 	<?php } ?>
-</form></div>
 <?php endforeach; ?>
+</form>
